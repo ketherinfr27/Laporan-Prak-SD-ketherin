@@ -29,6 +29,7 @@ Jobsheet 11. _Jobsheet ini membahas algoritma pencarian dalam pemrograman C, yan
 Jobsheet 12. _Jobsheet ini berfokus pada Tree Traversal dalam pemrograman C, khususnya membahas cara menjelajahi struktur data tree dengan tiga metode : Inorder, Preorder, dan Postorder. Jobsheet ini menekankan pemahaman konsep, implementasi menggunakan IDE (DevC++), serta memberikan contoh program dan visualisasi untuk membantu pemahaman._
 
 Jobsheet 13. _Jobsheet ini membahas tentang penerapan algoritma Depth First Search (DFS) dan Breadth First Search (BFS) pada struktur data graph. Pertama, jobsheet ini menjelaskan konsep dasar dari kedua algoritma tersebut dan memberikan ilustrasi bagaimana penerapan DFS dengan diagram. Selanjutnya, terdapat beberapa contoh program C yang mengimplementasikan algoritma DFS, mulai dari program yang sederhana hingga yang lebih kompleks._
+# thank you
 
-# my instagram
+# follow my instagram
 https://www.instagram.com/ketherinfr?igsh=MTB5Z2NjejdwYmdnMg%3D%3D&utm_source=qr
